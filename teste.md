@@ -1,0 +1,1 @@
+Esse texto é um teste do Git
