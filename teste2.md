@@ -1,1 +1,2 @@
 Esse texto é um segundo teste
+testando alteraçãoes automaticas
